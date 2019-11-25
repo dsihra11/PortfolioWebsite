@@ -1,0 +1,48 @@
+<div class="skills" id="skills">
+	<h3>My Skills</h3>
+		<div class="skill-left">
+			<img src="assets/img/htmlLogo.png" alt="html" />
+			<h5>HTML</h5>
+			<p>Lorem Ipsum is simply dummy text of, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+		</div>
+		<div class="skill-center">
+			<img src="assets/img/cssLogo.png" alt="css"/>
+			<h5>CSS</h5>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industrydummy text ever since the 1500s, when auhiu </p>
+		</div>
+		<div class="skill-right">
+			<img src="assets/img/javascript.png" alt="javascript"/>
+			<h5>JavaScript</h5>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard d</p>
+		</div>
+		<div class="skill-left">
+			<img src="assets/img/c.jpg" alt="c" />
+			<h5>C#</h5>
+			<p>Lorem Ipsum is simply dummy text of, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+		</div>
+		<div class="skill-center" id="mvc">
+			<img src="assets/img/mvc.png" alt="mvc"/>
+			<h5>MVC</h5>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industrydummy text ever since the 1500s, when auhiu </p>
+		</div>
+		<div class="skill-right" id="asp">
+			<img src="assets/img/asp.png" alt="ASP"/>
+			<h5>ASP.NET</h5>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard d</p>
+		</div>
+		<div class="skill-left" id="sql">
+			<img src="assets/img/sql.png" alt="sql" />
+			<h5>SQL</h5>
+			<p>Lorem Ipsum is simply dummy text of, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+		</div>
+		<div class="skill-center" id="php">
+			<img src="assets/img/php.png" alt="php"/>
+			<h5>PHP</h5>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industrydummy text ever since the 1500s, when auhiu </p>
+		</div>
+		<div class="skill-right" id="git">
+			<img src="assets/img/github.png" alt="git"/>
+			<h5>GitHub</h5>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard d</p>
+		</div>
+	</div>
